@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @asim-ch
+- 👋 Hi, I’m Asim Shahzad
 - 👀 I’m interested in working with technologies related to NodeJS and Java ecosystem
 - 🌱 I’m currently learning orchestration strategies to support scalable and distributed applications
-- 💞️ I’m looking to collaborate on open source projects related to Java, NodeJs technologies and also interested in DevOps space 
+- 💞️ I’m looking to collaborate on open source projects related to Java, NodeJs and also interested in DevOps space 
 - 📫 How to reach me 
 Email: asim.shahzad.misazu@gmail.com
 LinkedIn: https://www.linkedin.com/in/asim-shahzad-69690513b
